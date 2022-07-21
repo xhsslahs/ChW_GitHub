@@ -1,5 +1,5 @@
 # Site settings
-title: "Jekyll Resume Template"
+title: "홍우:이력서"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "정홍우"
-resume_title:                   "VP of Global Communications"
+resume_title:                   "이거시 자기소개서 이마리다"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "xhsslahs@naver.com"
